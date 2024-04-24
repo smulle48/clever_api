@@ -75,7 +75,7 @@ Press 'send'
 
 
 
-2) You will now recieve a email from Clever asking you to confirm login. Open this email and press the 'bekræft' button
+2) You will now recieve a email from Clever asking you to confirm login. Open this email and right click on "bekræft email gennem Clever.dk" and select copy.
 
 ![Login picture 2](https://github.com/fars-fede-fire/clever_api/blob/main/cleverfoto/clevermail.PNG)
 
