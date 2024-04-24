@@ -80,14 +80,7 @@ Press 'send'
 ![Login picture 2](https://github.com/fars-fede-fire/clever_api/blob/main/cleverfoto/clevermail.PNG)
 
 
-
-3) Copy the URL
-
-![Login picture 3](https://github.com/fars-fede-fire/clever_api/blob/main/cleverfoto/cleverurl.PNG)
-
-
-
-4) Insert your Clever mail again and paste the URL
+3) Insert your Clever mail again and paste the URL
 
 ![Login picture 4](https://github.com/fars-fede-fire/clever_api/blob/main/cleverfoto/login2.PNG)
 
