@@ -64,7 +64,7 @@ class TransactionsDataRecords(BaseModel, extra=Extra.ignore):
     stop_time_local: int = Field(..., alias="stopTimeLocal")
     start_time_utc: int = Field(..., alias="startTimeUtc")
     stop_time_utc: int = Field(..., alias="stopTimeUtc")
-    k_wh: float = Field(..., alias="kWh")
+    k_wh: Optional[float] = Field(..., alias="kWh")
 
 
 class TransactionsData(BaseModel, extra=Extra.ignore):
